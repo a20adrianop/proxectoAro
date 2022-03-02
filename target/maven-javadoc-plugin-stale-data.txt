@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/wadmin/Documents/NetBeansProjects/proxectoAro/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/wadmin/Documents/NetBeansProjects/proxectoAro/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proxectoAro 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/wadmin/Documents/NetBeansProjects/proxectoAro/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'proxectoAro 1.0-SNAPSHOT API'
+circulo
+'C:/Users/wadmin/Documents/NetBeansProjects/proxectoAro/src/main/java/circulo/Aro.java'
+'C:/Users/wadmin/Documents/NetBeansProjects/proxectoAro/src/main/java/circulo/Main.java'
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\src\main\java = 1646216298833
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\allclasses-index.html = 1646225436469
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\allpackages-index.html = 1646225436475
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\constant-values.html = 1646225436407
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\element-list = 1646225436357
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\help-doc.html = 1646225436546
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\index-all.html = 1646225436520
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\index.html = 1646225436536
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\jquery-ui.overrides.css = 1646225436646
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\member-search-index.js = 1646225436495
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\module-search-index.js = 1646225436486
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\overview-tree.html = 1646225436437
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\package-search-index.js = 1646225436490
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\script.js = 1646225436554
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\search.js = 1646225436563
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\stylesheet.css = 1646225436551
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\tag-search-index.js = 1646225436496
+C:\Users\wadmin\Documents\NetBeansProjects\proxectoAro\target\site\apidocs\type-search-index.js = 1646225436494
