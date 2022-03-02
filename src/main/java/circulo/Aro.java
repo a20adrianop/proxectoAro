@@ -27,9 +27,9 @@ public class Aro {
 
     /**
      * Constructor con valores de coordenadas X e Y y el valor del radio
-     * @param valorX
-     * @param valorY
-     * @param valorRadio
+     * @param valorX coordenada X
+     * @param valorY coordenada Y
+     * @param valorRadio valor del radio
      */
     public Aro(int valorX, int valorY, double valorRadio) {
         coordenadaX = valorX;
