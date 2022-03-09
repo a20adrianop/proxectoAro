@@ -10,7 +10,7 @@ public class Main {
 
     /**
      * Método para crear un círculo y obtener datos de el con coordenadas y el radio
-     * @param args
+     * @param args entrada de datos desde el main
      */
     public static void main(String[] args) {
         Aro circulo = new Aro(37,43,2.5);

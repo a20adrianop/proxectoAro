@@ -76,7 +76,7 @@ public class Aro {
      * @param radio el radio a establecer
      */
     public void setRadio(double radio) {
-        this.radio = radio;
+        this.radio=radio<LIMITERADIO?LIMITERADIO:radio;
     }
 
     /**
